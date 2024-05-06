@@ -11,6 +11,9 @@ The project was done as a part of my university study. It implements "backgammon
 - Two players mode
 - Game saving and loading using binary files (one saved game at a time)
 
+# Showcase
+![backgammon-cli](showcase.gif)
+
 # Requirements
 - It is **prohibited** to use object-oriented programming techniques (C++), in particular classes, inheritance mechanisms, polymorphism, overloading of functions and operators, etc. It is **allowed** to use data structures without methods (functions) inside the structures (C).
 - It is **forbidden** to use global variables, except for variables of simple types (e.g. int, float, etc., without pointers) preceded by the const specifier.
